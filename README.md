@@ -1,2 +1,2 @@
 # personal-portfolio
-Personal Portfolio
+Desenvolvi meu portfólio apenas usando html, css e bootstrap
